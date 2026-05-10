@@ -4,16 +4,19 @@
 
 **[Live demo →](#)**
 
-![preview](docs/preview.png)
+![preview](client/docs/preview.png)
 
 ## What it does
+
 A travel-booking platform where users can browse destinations, filter by date and party size, view stay details, and create authenticated reservations. Admins manage stays and reservations from a protected dashboard.
 
 ## Stack
+
 - **Client:** React 18, Vite, Tailwind CSS v3, Axios, React Router
 - **Server:** Node, Express, MongoDB (Mongoose), JWT, bcrypt
 
 ## Highlights
+
 - Full auth flow with JWT and protected routes
 - Search + filter pipeline against the `/stays` endpoint with availability awareness
 - Reservation creation with conflict checks
@@ -21,6 +24,7 @@ A travel-booking platform where users can browse destinations, filter by date an
 - Clean `/client` + `/server` workspace split
 
 ## Run locally
+
 ```bash
 # 1. Backend
 cd server
