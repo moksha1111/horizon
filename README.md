@@ -2,7 +2,7 @@
 
 > Full-stack travel booking app with search, availability, JWT auth, and a reservation flow.
 
-**[Live demo →](#)**
+**[Live demo →](https://horizon-e620.onrender.com)**
 
 ![preview](client/docs/preview.png)
 
